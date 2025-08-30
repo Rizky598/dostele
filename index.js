@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const { exec } = require('child_process');
 
 // Ganti dengan token bot Telegram Anda
-const token = '7198835261:AAHnzYX0J5atmiFHx2_avSqjOJTcVNx2gQQ';
+const token = '7943940179:AAHcd6jZ5Wt-jg9bxKU-YgQQbjlXRK6cqgU';
 
 // Inisialisasi bot dengan token
 const bot = new TelegramBot(token, { polling: true });
